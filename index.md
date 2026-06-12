@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+### About this
+My blog. I'll try to update it frequently.
+初めまして。おブログです。ちょくちょく何かを書くようにしています。
