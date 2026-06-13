@@ -27,7 +27,14 @@ layout: default
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  
+  <script>
+  document.querySelectorAll('.redacted').forEach(el => {
+    el.addEventListener('click', () => el.classList.toggle('revealed'));
+  });
+</script>
 </article>
+
 <script src="https://giscus.app/client.js"
         data-repo="yogurtmlem/yogurtmlem.github.io"
         data-repo-id="R_kgDOS5AheA"
