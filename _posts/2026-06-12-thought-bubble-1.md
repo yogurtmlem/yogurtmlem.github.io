@@ -25,4 +25,4 @@ I have touched on everything under the sun accept for one thing, speaking. Speak
 ## End
 These are just my randomly jotted down thoughts, not a study guide. Here's a puppy for you on your way out.  
 
-![dach1](/css/assets/images/dach1.png)
+![dach1](/css/assets/images/dach1.jpg)
