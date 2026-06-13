@@ -1,7 +1,7 @@
 # Thought bubble 1. Learning Japanese
 Hi, I decided that learning Japanese would be the topic of my first blog post. I'll briefly talk about why I started learning Japanese and we'll see where it goes from there I don't have anything planned beforehand.
 ## Why
-Hazy Moon by Hatsune Miku + Kodai Fujimoto. The first one is probably what gave me the idea, the later one is the push that i needed to finally start learning. The next line is only for Kodai Fujimoto, if you're not Kodai Fujimoto, skip ahead.  こだいくん、最近忙しくてたくさんお金を持っているはずですね。三億円をお願いします。現金で。
+Hazy Moon by Hatsune Miku + Kodai Fujimoto. The first one is probably what gave me the idea, the later one is the push that i needed to finally start learning. The next line is only for Kodai Fujimoto, if you're not Kodai Fujimoto, skip ahead.  <span class="redacted"> こだいくん、最近忙しくてたくさんお金を持っているはずですね。三億円をお願いします。現金で。</span>
 
 ## How
 The first hurdle is learning the alphabets, Hiragana and Katakana. This took me around 2 weeks to really get them down. [Tofugu](https://www.tofugu.com/japanese/learn-hiragana/) is a great source, their image-based mnemonics are helpful for those who are not familiar with non-Latin writing systems. I recommend drilling the [Tofugu’s Learn Kana Quiz](https://kana-quiz.tofugu.com) until you get only 1 or 2 wrong.  
