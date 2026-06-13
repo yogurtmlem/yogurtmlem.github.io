@@ -43,3 +43,17 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.redacted {
+  background-color: black;
+  color: transparent;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  user-select: none;
+}
+
+.redacted.revealed {
+  background-color: transparent;
+  color: inherit;
+}
